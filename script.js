@@ -8,12 +8,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('1').addEventListener('click', a);
 
     function a() {
-      let GivenDate = '2019-12-01';
+      let GivenDate = '2020-12-01';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -25,12 +25,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('2').addEventListener('click', b);
 
     function b() {
-      let GivenDate = '2019-12-02';
+      let GivenDate = '2020-12-02';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -41,12 +41,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('3').addEventListener('click', c);
 
     function c() {
-      let GivenDate = '2019-12-03';
+      let GivenDate = '2020-12-03';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -57,12 +57,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('4').addEventListener('click', d);
 
     function d() {
-      let GivenDate = '2019-12-04';
+      let GivenDate = '2020-12-04';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -73,12 +73,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('5').addEventListener('click', e);
 
     function e() {
-      let GivenDate = '2019-12-05';
+      let GivenDate = '2020-12-05';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -89,12 +89,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('6').addEventListener('click', f);
 
     function f() {
-      let GivenDate = '2019-12-06';
+      let GivenDate = '2020-12-06';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -105,12 +105,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('7').addEventListener('click', g);
 
     function g() {
-      let GivenDate = '2019-12-07';
+      let GivenDate = '2020-12-07';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -121,12 +121,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('8').addEventListener('click', h);
 
     function h() {
-      let GivenDate = '2019-12-08';
+      let GivenDate = '2020-12-08';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -137,12 +137,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('9').addEventListener('click', i);
 
     function i() {
-      let GivenDate = '2019-12-09';
+      let GivenDate = '2020-12-09';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -153,12 +153,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('10').addEventListener('click', j);
 
     function j() {
-      let GivenDate = '2019-12-10';
+      let GivenDate = '2020-12-10';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -169,12 +169,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('11').addEventListener('click', k);
 
     function k() {
-      let GivenDate = '2019-12-11';
+      let GivenDate = '2020-12-11';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -185,12 +185,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('12').addEventListener('click', l);
 
     function l() {
-      let GivenDate = '2019-12-12';
+      let GivenDate = '2020-12-12';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -201,12 +201,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('13').addEventListener('click', m);
 
     function m() {
-      let GivenDate = '2019-12-13';
+      let GivenDate = '2020-12-13';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -217,12 +217,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('14').addEventListener('click', n);
 
     function n() {
-      let GivenDate = '2019-12-14';
+      let GivenDate = '2020-12-14';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -233,12 +233,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('15').addEventListener('click', o);
 
     function o() {
-      let GivenDate = '2019-12-15';
+      let GivenDate = '2020-12-15';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -249,12 +249,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('16').addEventListener('click', p);
 
     function p() {
-      let GivenDate = '2019-12-16';
+      let GivenDate = '2020-12-16';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -265,12 +265,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('17').addEventListener('click', r);
 
     function r() {
-      let GivenDate = '2019-12-17';
+      let GivenDate = '2020-12-17';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -281,12 +281,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('18').addEventListener('click', s);
 
     function s() {
-      let GivenDate = '2019-12-18';
+      let GivenDate = '2020-12-18';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -297,12 +297,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('19').addEventListener('click', t);
 
     function t() {
-      let GivenDate = '2019-12-19';
+      let GivenDate = '2020-12-19';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -313,12 +313,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('20').addEventListener('click', u);
 
     function u() {
-      let GivenDate = '2019-12-20';
+      let GivenDate = '2020-12-20';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -329,12 +329,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('21').addEventListener('click', w);
 
     function w() {
-      let GivenDate = '2019-12-21';
+      let GivenDate = '2020-12-21';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -345,12 +345,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('22').addEventListener('click', x);
 
     function x() {
-      let GivenDate = '2019-12-22';
+      let GivenDate = '2020-12-22';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -361,12 +361,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('23').addEventListener('click', y);
 
     function y() {
-      let GivenDate = '2019-12-23';
+      let GivenDate = '2020-12-23';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";
@@ -377,12 +377,12 @@ document.getElementById('bg-task').addEventListener("click", hide);
     document.getElementById('24').addEventListener('click', z);
 
     function z() {
-      let GivenDate = '2019-12-24';
+      let GivenDate = '2020-12-24';
       let CurrentDate = new Date();
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert(" Sorry you can't open this window yet");
+        alert("Désolé il est trop triche pas");
       }
       else {
         document.getElementById('bg-task').style.display = "block";

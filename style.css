@@ -1,5 +1,5 @@
 .calendar {
-	background-image: url('wallpaperflare.com_wallpaper.jpg');
+	background-image: url('899604.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 750px;
@@ -26,18 +26,13 @@
 }
 
 .task {
-	background-image: url('images.jpg');
-	background-size: 710px 500px;
+	background:black;
 	border-radius: 5px;
-	height: 500px;
-	width: 710px;
-	margin-top: 57px;
-	margin-left: 45px;
-	background-color: white;
+	height: 350px;
+	width: 350px;
 	position: absolute;
 	animation: show 1s;
 	text-align: center;
-	padding: 40px 50px 50px 50px;
 	color: #393737;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 20px;
@@ -50,12 +45,4 @@
 	100% {
 		opacity: 1;
 	}
-}
-
-a {
-	color: rgb(0, 155, 75);
-}
-
-a:hover {
-	color: rgb(0, 213, 103);
 }
