@@ -389,3 +389,13 @@ document.getElementById('bg-task').addEventListener("click", hide);
         document.getElementById('z').style.display = "block";
       }
     }
+
+    var element = document.querySelector(".door");
+element.addEventListener("click", toggleDoor);
+if (GivenDate > CurrentDate) {
+  alert("Désolé il est trop triche pas");
+}
+
+function toggleDoor() {
+  element.classList.toggle("doorOpen");
+}
