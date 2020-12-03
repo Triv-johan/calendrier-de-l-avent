@@ -13,13 +13,13 @@
 }
 .box {
 
-	
 	height: 15vh;
 	width: 10vw;
 	margin: 3% 	auto 3%;
-	border: 1px solid white;
+	border: 1px solid rgba(255, 255, 255, 0.274);
 	border-style: dashed;
 	color: white;
+	text-shadow: black 2px 2px 2px;
 	font-size: 20px;
 	font-weight: bold;
 }
@@ -37,7 +37,7 @@
 	animation: show 1.5s;
 }
 h1{
-	color:white;
+	color:gold;
 	text-shadow: black 2px 2px 2px;
 
 }
