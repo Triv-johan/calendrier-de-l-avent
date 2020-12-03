@@ -142,7 +142,7 @@ document.getElementById('bg-task').addEventListener("click", hide);
       GivenDate = new Date(GivenDate);
 
       if (GivenDate > CurrentDate) {
-        alert("Désolé il est trop triche pas");
+        alert("Désolé il est trop tot ! triche pas !");
       }
       else {
         document.getElementById('bg-task').style.display = "block";

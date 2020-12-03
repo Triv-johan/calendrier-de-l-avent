@@ -1,23 +1,25 @@
 .calendar {
+
+	display: flex;
+	flex-wrap: wrap;
 	background-image: url('899604.jpg');
 	background-size: cover;
 	background-position: center;
-	height: 750px;
-	width: 1400px;
-	margin: 40px auto 0 auto;
+	max-width: 95%;
+	margin: auto;
+	margin-top: 2%;
 	box-shadow: 4px 5px 11px #000000;
 	border-radius: 5px;
 }
-
 .box {
-	height:120px;
-	width: 150px;
+
+	height: 15vh;
+	width: 10vw;
+	margin: 3% 	auto 3%;
 	border: 1px solid white;
 	color: white;
-	margin: 57px auto 0 auto;
 	font-size: 20px;
 	font-weight: bold;
-	padding-left: 5px;
 }
 
 .box:hover {
@@ -26,17 +28,15 @@
 }
 
 .task {
-	background:black;
-	border-radius: 5px;
-	height: 350px;
-	width: 350px;
+
+	background:transparent;
 	position: absolute;
 	animation: show 1s;
-	text-align: center;
-	color: #393737;
-	font-family: "Times New Roman", Times, serif;
-	font-size: 20px;
 }
+h1{
+	color:black;
+}
+
 
 @keyframes show {
 	0% {
